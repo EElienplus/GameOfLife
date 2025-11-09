@@ -1,0 +1,6 @@
+/Users/eelien/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/eelien/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/eelien/Desktop/Code/C++/GameOfLife -B /Users/eelien/Desktop/Code/C++/GameOfLife/cmake-build-debug
+-- Found raylib via CMake config (raylib::raylib)
+-- Configured raylib::raylib from Homebrew prefix: /opt/homebrew/opt/raylib/lib/libraylib.dylib
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/eelien/Desktop/Code/C++/GameOfLife/cmake-build-debug
