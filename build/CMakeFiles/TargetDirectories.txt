@@ -1,0 +1,3 @@
+/Users/eelien/Desktop/Code/C++/GameOfLife/build/CMakeFiles/GameOfLife.dir
+/Users/eelien/Desktop/Code/C++/GameOfLife/build/CMakeFiles/edit_cache.dir
+/Users/eelien/Desktop/Code/C++/GameOfLife/build/CMakeFiles/rebuild_cache.dir
